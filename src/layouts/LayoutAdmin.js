@@ -4,10 +4,11 @@ import { Layout } from 'antd'
 import MenuTop from '../components/Admin/MenuTop'
 import MenuSider from '../components/Admin/MenuSider';
 
+
 import './LayoutAdmin.scss'
 
 const LayoutAdmin = ({ routes }) => {
-  const [menuCollapsed, setMenuCollapsed] = useState(true)
+  const [menuCollapsed, setMenuCollapsed] = useState(false)
   const { Header, Content, Footer } = Layout
   return (
     <Layout>

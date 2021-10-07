@@ -6,11 +6,8 @@ import MenuSider from '../components/Admin/MenuSider';
 
 import './LayoutBasic.scss'
 
-
-
-
 const LayoutBasic = ({ routes }) => {
-  const [menuCollapsed, setMenuCollapsed] = useState(true)
+  const [menuCollapsed, setMenuCollapsed] = useState(false)
   const { Header, Content, Footer } = Layout
   return (
     <Layout>
@@ -22,7 +19,7 @@ const LayoutBasic = ({ routes }) => {
         <Content className="layout-basic__content">
           <LoadRoutes routes={routes} />
         </Content>
-        <Footer className="layout-basic__footer"> Eyexoft</Footer>
+        <Footer className="layout-basic__footer"> 2021 Created by MrElvix - Eyexoft</Footer>
       </Layout>
     </Layout>
   )

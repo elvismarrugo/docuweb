@@ -6,7 +6,8 @@ import AdminHome from '../pages/Admin'
 import Home from '../pages/Home'
 import Contact from '../pages/Contact'
 import Error404 from '../pages/Error404'
-
+import GitJs from '../pages/Resources/GitJs/GitJs'
+import ReactJs from '../pages/Resources/ReactJs/ReactJs'
 const routes = [
   {
     path: "/admin",
@@ -35,6 +36,16 @@ const routes = [
       {
         path: "/contact",
         component: Contact,
+        exact: true,
+      },
+      {
+        path: "/resources/gitjs/gitjs",
+        component: GitJs,
+        exact: true,
+      },
+      {
+        path: "/resources/reactjs/reactjs",
+        component: ReactJs,
         exact: true,
       },
       {
