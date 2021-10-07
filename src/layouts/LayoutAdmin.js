@@ -21,7 +21,7 @@ const LayoutAdmin = ({ routes }) => {
         </Content>
         <Footer className="layout-admin__footer"> Eyexoft</Footer>
       </Layout>
-    </Layout >
+    </Layout>
   )
 }
 
