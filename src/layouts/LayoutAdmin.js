@@ -16,6 +16,7 @@ const LayoutAdmin = ({ routes }) => {
       <Layout className="layout-admin" style={{ marginLeft: menuCollapsed ? "80px" : "200px" }}>
         <Header className="layout-admin__header">
           <MenuTop menuCollapsed={menuCollapsed} setMenuCollapsed={setMenuCollapsed} />
+          <h2>Mi documentacion en linea</h2>
         </Header>
         <Content className="layout-admin__content">
           <LoadRoutes routes={routes} />

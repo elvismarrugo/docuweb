@@ -1,5 +1,5 @@
 import './MenuTop.scss'
-import EyeLogo from '../../../assets/img/svg/Logo_MrElvix_2.svg'
+import EyeLogo from '../../../assets/img/svg/Logo_MrElvix.svg'
 import { Button } from 'antd'
 import { MenuUnfoldOutlined, MenuFoldOutlined, PoweroffOutlined } from '@ant-design/icons';
 
