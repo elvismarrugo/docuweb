@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/docuweb/static/css/main.0487df54.chunk.css",
-    "main.js": "/docuweb/static/js/main.ce337ae6.chunk.js",
-    "main.js.map": "/docuweb/static/js/main.ce337ae6.chunk.js.map",
+    "main.js": "/docuweb/static/js/main.018c8af2.chunk.js",
+    "main.js.map": "/docuweb/static/js/main.018c8af2.chunk.js.map",
     "runtime-main.js": "/docuweb/static/js/runtime-main.c124e82b.js",
     "runtime-main.js.map": "/docuweb/static/js/runtime-main.c124e82b.js.map",
     "static/css/2.a95be28f.chunk.css": "/docuweb/static/css/2.a95be28f.chunk.css",
@@ -12,13 +12,13 @@
     "static/css/2.a95be28f.chunk.css.map": "/docuweb/static/css/2.a95be28f.chunk.css.map",
     "static/css/main.0487df54.chunk.css.map": "/docuweb/static/css/main.0487df54.chunk.css.map",
     "static/js/2.8a2783ac.chunk.js.LICENSE.txt": "/docuweb/static/js/2.8a2783ac.chunk.js.LICENSE.txt",
-    "static/media/logo-white.5368bf57.png": "/docuweb/static/media/logo-white.5368bf57.png"
+    "static/media/Logo_MrElvix_2.548770b2.svg": "/docuweb/static/media/Logo_MrElvix_2.548770b2.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.c124e82b.js",
     "static/css/2.a95be28f.chunk.css",
     "static/js/2.8a2783ac.chunk.js",
     "static/css/main.0487df54.chunk.css",
-    "static/js/main.ce337ae6.chunk.js"
+    "static/js/main.018c8af2.chunk.js"
   ]
 }
