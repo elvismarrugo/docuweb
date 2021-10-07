@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/docuweb/static/css/main.3796a3c9.chunk.css",
-    "main.js": "/docuweb/static/js/main.fafc4515.chunk.js",
-    "main.js.map": "/docuweb/static/js/main.fafc4515.chunk.js.map",
+    "main.css": "/docuweb/static/css/main.0487df54.chunk.css",
+    "main.js": "/docuweb/static/js/main.ce337ae6.chunk.js",
+    "main.js.map": "/docuweb/static/js/main.ce337ae6.chunk.js.map",
     "runtime-main.js": "/docuweb/static/js/runtime-main.c124e82b.js",
     "runtime-main.js.map": "/docuweb/static/js/runtime-main.c124e82b.js.map",
     "static/css/2.a95be28f.chunk.css": "/docuweb/static/css/2.a95be28f.chunk.css",
-    "static/js/2.dbec43c3.chunk.js": "/docuweb/static/js/2.dbec43c3.chunk.js",
-    "static/js/2.dbec43c3.chunk.js.map": "/docuweb/static/js/2.dbec43c3.chunk.js.map",
+    "static/js/2.8a2783ac.chunk.js": "/docuweb/static/js/2.8a2783ac.chunk.js",
+    "static/js/2.8a2783ac.chunk.js.map": "/docuweb/static/js/2.8a2783ac.chunk.js.map",
     "index.html": "/docuweb/index.html",
     "static/css/2.a95be28f.chunk.css.map": "/docuweb/static/css/2.a95be28f.chunk.css.map",
-    "static/css/main.3796a3c9.chunk.css.map": "/docuweb/static/css/main.3796a3c9.chunk.css.map",
-    "static/js/2.dbec43c3.chunk.js.LICENSE.txt": "/docuweb/static/js/2.dbec43c3.chunk.js.LICENSE.txt",
+    "static/css/main.0487df54.chunk.css.map": "/docuweb/static/css/main.0487df54.chunk.css.map",
+    "static/js/2.8a2783ac.chunk.js.LICENSE.txt": "/docuweb/static/js/2.8a2783ac.chunk.js.LICENSE.txt",
     "static/media/logo-white.5368bf57.png": "/docuweb/static/media/logo-white.5368bf57.png"
   },
   "entrypoints": [
     "static/js/runtime-main.c124e82b.js",
     "static/css/2.a95be28f.chunk.css",
-    "static/js/2.dbec43c3.chunk.js",
-    "static/css/main.3796a3c9.chunk.css",
-    "static/js/main.fafc4515.chunk.js"
+    "static/js/2.8a2783ac.chunk.js",
+    "static/css/main.0487df54.chunk.css",
+    "static/js/main.ce337ae6.chunk.js"
   ]
 }
