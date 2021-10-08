@@ -39,12 +39,12 @@ const routes = [
         exact: true,
       },
       {
-        path: "/resources/gitjs/gitjs",
+        path: "/resources/gitjs",
         component: GitJs,
         exact: true,
       },
       {
-        path: "/resources/reactjs/reactjs",
+        path: "/resources/reactjs",
         component: ReactJs,
         exact: true,
       },

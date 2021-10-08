@@ -28,14 +28,14 @@ const MenuSider = (props) => {
         </SubMenu>
         <SubMenu key="sub3" title="GitJs" >
           <Menu.Item key="3">
-            <Link to={"/resources/gitjs/gitjs"}>
+            <Link to={"/resources/gitjs"}>
               <span className="nav-text">Inicio ISSUE</span>
             </Link>
           </Menu.Item>
         </SubMenu>
         <SubMenu key="sub4" title="ReactJs" >
           <Menu.Item key="4">
-            <Link to={"/resources/reactjs/reactjs"}>
+            <Link to={"/resources/reactjs"}>
               <span className="nav-text">Instalación</span>
             </Link>
           </Menu.Item>
