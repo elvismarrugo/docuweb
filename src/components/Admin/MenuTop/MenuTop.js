@@ -1,5 +1,6 @@
 import './MenuTop.scss'
-import EyeLogo from '../../../assets/img/svg/Logo_MrElvix.svg'
+import EyeLogo from '../../../assets/img/svg/Logo_MrElvix_4.svg'
+// <M r  E l v i x / > */
 import { Button } from 'antd'
 import { MenuUnfoldOutlined, MenuFoldOutlined, PoweroffOutlined } from '@ant-design/icons';
 
@@ -18,11 +19,11 @@ const MenuTop = (props) => {
           {menuCollapsed ? <MenuUnfoldOutlined /> : <MenuFoldOutlined />}
         </Button>
       </div>
-      <div className="menu-top_right">
+      {/* <div className="menu-top_right">
         <Button type="link" onClick={() => console.log("click")}>
           <PoweroffOutlined />
         </Button>
-      </div>
+      </div> */}
     </div>
   )
 
